@@ -13,3 +13,6 @@ This is my example of an image
 
 
 ##Monika is making this change!
+
+## See this screenshot below
+![image](https://user-images.githubusercontent.com/60171901/236380237-09c85a48-09af-428c-b2ce-728593453396.png)
