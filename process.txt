@@ -1,4 +1,0 @@
-print("Hello GitHub")
-# I added this comment from github.com
-# Edited on Desktop
-# Edited online
