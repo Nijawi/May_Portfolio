@@ -12,7 +12,7 @@ This is my example of an image
 ![image](https://user-images.githubusercontent.com/67612228/236378288-4155b9f5-3c20-4a7a-86ba-d7d28ee80d62.png)
 
 
-##Monika is making this change!
+## Monika is making this change!
 
 ## See this screenshot below
 ![image](https://user-images.githubusercontent.com/60171901/236380237-09c85a48-09af-428c-b2ce-728593453396.png)
